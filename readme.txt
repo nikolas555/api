@@ -1,1 +1,2 @@
-The given code is a weather forecast api that shows us the minimum temperature in any city
+mocemuli kods moaqvs informacia am saitidan:https://www.imdb.com/?ref_=nv_home
+filmebis dasaxelebis mati reitingisa da gamoshvebis wlebis shesaxeb 
